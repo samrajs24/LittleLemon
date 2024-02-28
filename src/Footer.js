@@ -1,8 +1,9 @@
+import logo_img from "./assets/images/TastyFood.svg";
 function Footer() {
     return (
         <footer>
             <div className="container">
-                <img src="./Logo.svg" alt="Logo"/>
+                <img src={logo_img} alt="Logo"/>
                 <div className="footer-links">
                     <ul>
                         <h2>Navigation</h2>
@@ -16,7 +17,7 @@ function Footer() {
 
                     <ul>
                         <h2>Contact</h2>
-                        <li>Little Lemon</li>
+                        <li>Tasty Food</li>
                         <li>29 route du bima</li>
                         <li>St naza Street Chicago</li>
                     </ul>

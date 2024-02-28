@@ -12,7 +12,7 @@ function BookingPage({availabaleTimes}) {
                     <section className="booking">
                         <div className="bookingForm">
                             <div className="bookingFormHeader">
-                                <h1>Little Lemon</h1>
+                                <h1>Tasty Food</h1>
                                 <h2>Chicago</h2>
 
                                 <h3>Find a table for any occasion</h3>
