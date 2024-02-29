@@ -1,5 +1,6 @@
 import { RxHamburgerMenu } from "react-icons/rx";
 import basket_img from "./assets/images/Basket.svg";
+//changed logo image
 import logo_img from "./assets/images/TastyFood.svg";
 
 function Header() {
